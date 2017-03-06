@@ -1,0 +1,13 @@
+#Comment
+tempest.txt
+*.zip
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
+
+# question :would log/archive/access.log be ignored? No.
+tempest1.txt
+tempest3.txt
+tempest4.txt
